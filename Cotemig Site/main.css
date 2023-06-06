@@ -1,0 +1,528 @@
+#all
+{
+    font-family: "Lato",sans-serif;
+    width: 100%;
+}
+
+html
+{
+  max-height: fit-content;
+}
+
+body
+{
+  max-height:100px;
+}
+
+#cadeado
+{
+    position: relative;
+    left:320px;
+}
+
+
+div 
+{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    height: 30px;
+}
+
+div #contato
+{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    position: relative;
+    left: 820px;
+    font-size: 17px;
+    width: 0;
+} 
+
+nav h2
+{
+display: inline-block;
+position: relative;
+left: 290px;
+padding-left: 35px;
+font-weight: bold;
+font-size: 12px;
+padding-bottom: 20px;
+}
+
+.header
+{
+background-color: rgba(37, 36, 36, 0.726);
+color: white;
+position: sticky;
+top: 0px;
+z-index: -10;
+}
+#Restrita
+{
+  width: 0px;
+}
+
+#logo
+{
+    position:relative;
+    left: 100px;
+     top: 20px;
+}
+#cotemig
+{
+position: absolute;
+top:0px;
+z-index: -1000;
+}
+
+.banner div
+{
+  opacity: 0,5;
+  color: rgb(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
+  width: 10000px;
+}
+
+  .middle
+  {
+  text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+    display: inline-block;
+    width: 100%;
+    position: relative;
+    top: 400px;
+  }
+  #second
+  {
+    position: relative;
+    top: 100px;
+    left: 5px;
+    bottom: 50px;
+    font-weight:normal;
+    font-size: medium;
+    position: relative;
+    right: 100px;
+    column-count: 1;
+    column-gap: 0px;
+    width: 100%;
+    padding: 0px;
+    margin-right: 0px;
+  }
+  .criancada
+  {
+    height: 90px;
+    width: 20px;
+    position: relative;
+    top: 600px;
+    left: 300px;
+    background-color: rgba(240, 248, 255, 0);
+  }
+  .criancada img
+  {
+    border-radius: 10px;
+    
+  }
+
+  .criancada h3
+  {
+    color: rgb(235, 235, 235);
+    font-size: 22px;
+    position: relative;
+    bottom: 40px;
+    left: 10px;
+    display: inline-block;
+    width:232.7px;
+    text-decoration: solid;
+  }
+  .criancada h2
+  {
+    color: black;
+    height: 60px;
+    width: 250px;
+    position: relative;
+    left: 60px;
+    bottom: 40px;
+  }
+  .criancada h1
+{
+  color: black;
+  display: inline-block;
+  position: relative;
+  left: 60px;
+  bottom: 50px;
+  height: 60px;
+  width: 170px;
+}
+
+ 
+  
+  .banner h1
+
+  {
+     font-size: 38px;
+     font-weight: 700;
+     position: relative;
+     left: 40px;
+     top: 90px;
+     
+  }
+
+  .banner
+  {
+    background-color: rgba(0, 0, 0, 0);
+  }
+
+  .banner h2
+
+  {
+   position: relative;
+   left: 40px;
+   top: 120px;
+  }
+
+  #button
+  {
+    background-color: rgb(122, 214, 29);
+    position: relative;
+    top: 165px;
+    left: 30px;
+    width: 300px;
+    height:40px;
+    border-radius: 10px;
+  }
+  #button h3
+  {
+   position: relative;
+   left: 90px;
+   top: 10px;
+   bottom: 35px;
+   padding: 10px;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-bottom: 20px;
+  }
+  #graduacoes
+  {
+    position: relative;
+    left: 390px;
+    bottom: 27em;
+  }
+  #graduacoes1
+  {
+    position: relative;
+    left: 400px;
+    bottom: 480px;
+    font-size: 28px;
+    color: aliceblue;
+  }
+  #muleke
+  {
+    position: relative;
+    left: 400px;
+    bottom: 465px;
+  }
+  #graduacoes2
+  {
+    position: relative;
+    left: 450px;
+    bottom: 498px;
+  }
+
+  #graduacoes3
+  {
+    position: relative;
+    left: 400px;
+    bottom: 479px;
+  }
+  #analise
+  {
+   position: relative;
+   left: 450px;
+   bottom: 520px; 
+  }
+  #graducoes4
+  {
+    position: relative;
+    left: 400px;
+    bottom: 510px;
+  }
+  #ciencia
+  {
+    position: relative;
+    left: 450px;
+    bottom: 540px;
+  }
+  .unidades 
+  {
+    position: relative;
+    top: 1090px;
+    background-color: rgba(240, 248, 255, 0);
+    color: black;
+    
+  }
+  
+
+  .unidades h1
+  {
+    font-size: 2.5em;
+    position: relative;
+    left: 500px;
+    font-weight: 600;
+    width: 500px;
+    height: 100px;
+    margin: 1px;
+    margin-right: 1px;
+  }
+  #barroca
+  {
+    position: relative;
+    left: 30px;
+    top: 80px;
+    border-radius: 10px;
+
+  }
+  #barroca:hover
+  {
+    transition: 2s;
+    position: relative;
+    bottom: 10px;
+  }
+
+  #colegio
+  {
+    position: relative;
+    top: 60px;
+    left: 25px;
+    bottom: 190px;
+    font-size: 20px;
+    width: 390px;
+    font-weight: bold;
+    background-color: aliceblue;
+    height: 30px;
+    padding: 15px;
+  }
+#location
+{
+  position: relative;
+  top: 40px;
+  left: 30px;
+}
+#rua
+{
+  position: relative;
+  left: 60px;
+  top: 20px;
+}
+#estado
+{
+  position: relative;
+  left: 60px;
+  top: 40px;
+}
+#floresta
+{
+  position: relative;
+  left: 480px;
+  bottom: 250px;
+  border-radius: 10px;
+  z-index: -1;
+}
+#colegio2
+{
+  position: relative;
+  left: 480px;
+  bottom:259px ;
+  background-color: aliceblue;
+  height: 20px;
+  font-size: 23px;
+  font-weight: bold;
+}
+#location2
+{
+  position: relative;
+  left: 480px;
+  bottom: 255px;
+}
+#rua2
+{
+  position: relative;
+  left: 520px;
+  bottom: 275px;
+}
+#estado2
+{
+  position: relative;
+  left: 520px;
+  bottom: 255px;
+}
+#escritorio
+{
+position: relative;
+left: 920px;
+bottom: 540px;
+border-radius: 10px;
+}
+#escritorio1
+{
+  position: relative;
+  left: 920px;
+  bottom: 550px;
+  font-size: 23px;
+  font-weight: bold;
+  padding-top: 10px;
+  background-color: aliceblue;
+}
+#location3
+{
+  position: relative;
+  left: 500px;
+  bottom: 490px;
+}
+#rua3
+{
+  position:relative;
+  left: 920px;
+  bottom: 540px;
+}
+#estado3
+{
+  position: relative;
+  left: 920px;
+  bottom: 520px;
+}
+.atendimento
+{
+  position: relative;
+  top:1700px;
+  background-color: rgba(240, 248, 255, 0);
+}
+#princ
+{
+  font-size: 20px;
+  position: relative;
+  left: 500px;
+  color: #2e2e2e;
+  font-weight: 700;
+}
+#telefone
+{
+  position: relative;
+  left: 450px;
+  top: 50px;
+}
+#numero
+{
+  color: #40aa0b;
+  font-size: 32px;
+  font-weight: 700;
+  position: relative;
+  left: 500px;
+}
+.noticias
+{
+  position: relative;
+  top:1880px;
+  background-color: rgba(255, 255, 255, 0);
+  color:black;
+}
+#princ2
+{
+  font-size: 40px;
+  position: relative;
+  left: 400px;
+  bottom: 30px;
+  font-weight: 700;
+}
+#noticia1
+{
+  border-radius: 10px;
+  position: relative;
+  left: 20px;
+  object-fit: fill;
+}
+#text
+{
+  width: 300px;
+  position: relative;
+    left: 35px;
+    bottom: 120px;
+    color: white;
+    font-size: 20px;
+}
+#undertext
+{
+  font-size: 10px;
+  position: relative;
+  bottom: 110px;
+  left: 35px;
+  color: rgb(190, 179, 179);
+}
+#noticia2
+{
+  position: relative;
+  left: 360px;
+  bottom: 495px;
+  border-radius: 10px
+}
+#noticia3
+{
+  color:rgb(255, 255, 255);
+  width: 300px;
+  position: relative;
+  left: 370px;
+  bottom: 622px;
+  font-size: 20px;
+}
+#undertext2
+{
+  position: relative;
+  left: 370px;
+  bottom: 620px;
+  font-size: 10px;
+  color: rgb(190, 179, 179);
+}
+#noticia4
+{
+  position: relative;
+  left: 704px;
+  bottom: 1005px;
+  border-radius: 10px;
+}
+#text2
+{
+  width: 300px;
+  font-size: 20px;
+  position: relative;
+  left: 704px;
+  bottom: 1130px;
+  color: white;
+}
+#undertext3
+{
+  position: relative;
+  left: 709px;
+  bottom: 1100px;
+  font-size: 10px;
+  color: rgb(190, 179, 179);
+} 
+#noticia5
+{
+  position: relative;
+  left: 1020px;
+  bottom: 1480px;
+  border-radius: 10px;
+}
+#text3
+{
+  width: 300px;
+  position: relative;
+  left: 1025px;
+  bottom: 1605px;
+  font-size: 20px;
+  color: white ;
+}
+
